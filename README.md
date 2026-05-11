@@ -15,6 +15,7 @@ print('Hello Python') or print("Hello Python")
 
 ## output
 ''' text
+
 Hello Python
 ---
 
@@ -27,12 +28,14 @@ Hello Python
 
 ## More Examples
 ''' python
+
 print("My name is Bahareh")
 print(2026)
 ---
 
 ## Output
 '''text
+
 My name is Bahareh
 2026
 ---
