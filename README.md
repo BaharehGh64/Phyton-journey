@@ -2,27 +2,27 @@
 Welcome to my Python learning repository.  
 This project contains beginner-friendly Python concepts, examples, and mini projects.
 
-##print output
+## print function
 
-The `print()` function displays the values on the screen.
+The 'print()' function displays the values on the screen.
 It is one of the first and most important functions in Python.
 
-##Example
+## Example
 file: 'hello.py'
 
 print('Hello Python') or print("Hello Python")
-
 --- 
-##output
-'''text
+
+## output
+''' text
 Hello Python
+---
 
 ## Explanation
 
 - 'print()' displays text or values
 - Text must be written inside quotation marks
 - Parentheses '()' are required in Python 3
-
 ---
 
 ## More Examples
@@ -35,7 +35,6 @@ print(2026)
 '''text
 My name is Bahareh
 2026
-
 ---
 
 ## Why print() is Important
@@ -45,7 +44,6 @@ The 'print()' function helps programmers:
 - debug programs
 - display results
 - understand program behavior
-
 ---
 
 ## Practice
